@@ -100,6 +100,7 @@ C’est le **pattern chunk-oriented processing** : lire → traiter → écrire.
    * `JobExecutionListener` peut exécuter du code avant ou après le job.
 
 <img src="images/Ch02_SpringBatchArchitecture_Overview_MainComponents.png" alt="Diagram"/>
+
 ---
 
 ## **4. Exemple de configuration Spring Batch**
